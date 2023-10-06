@@ -1,0 +1,35 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Home Blog Hip-Hop</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+  </head>
+  <body>
+    <h1>Bienvenue sur ma page d'accueil</h1>
+
+    <h5><a href="Blog-Hip-Hop-(Maël-VIELLE-1ere-G3).html">1</a></h5>
+    <h5><a href="Blog-Hip-Hop-(Maël-VIELLE-1ere-G3)-2.html">2</a></h5>
+  
+
+    <p>
+      Voici un paragraphe avec des hyperliens <a href="page2.html">interne</a>
+      et <a rel="nofollow" href="https://fr.wikipedia.org">externes</a>.
+    </p>
+    <h2>HTML</h2>
+    <p>Le HTML permet de décrire le contenu d'une page web à l'aide de balises.</p>
+    <ul>
+      <li>Il peut exister plusieurs niveaux de titre.
+      <li>Le texte est organisé en paragraphes.
+      <li>On peut ajouter des hyperliens.
+      <li>Et même des listes à puces !
+    </ul>
+    <h2>CSS</h2>
+    <p>
+      Le CSS permet de modifier l'apparence du contenu.<br/>
+      On peut par exemple changer la couleur des titres.
+    </p>
+
+
+  </body>
+</html>
